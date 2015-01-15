@@ -1,0 +1,3 @@
+1234;Sample Text;Followed by more stuff
+12;Sample Text;Followed by more stuff:3489
+1234;Sample Text;Followed by more stuff;092348;Just more stuff
