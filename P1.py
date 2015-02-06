@@ -1,3 +1,4 @@
+# Created by: Abhi Jagdev
 # Input: text file 
 #         --> format == "1234;Sample Text;Followed by more stuff"
 # Output: print the line with the maximum int 
@@ -19,3 +20,5 @@ for x in range(len(lines)):
 
 num_line = nums.index(max(nums)) #get the index of the max num
 print str[num_line]
+
+
